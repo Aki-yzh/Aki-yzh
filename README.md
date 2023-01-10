@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yzh1102
+- 👋 Hi, I’m @Aki-yzh
 - 👀 I’m interested in gundam and anime
 - 🌱 I’m currently learning computer science in PKU
 <!---
